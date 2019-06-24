@@ -1,9 +1,9 @@
 {
-  "name": "nc-form",
+  "name": "@ncform/nc-form",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/[username]/nc-form.git"
+    "url": "git+https://github.com/ncform/nc-form.git"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
